@@ -18,7 +18,7 @@ The classifier network was trained on the FERPlus dataset. An interactive GUI pl
 STEP 1: Install Kivy and KivyMD in virtual environment. Install PyTorch, OpenCV and ReportLab on your system
 
 STEP 2: Now that you have installed the necessary libraries, next step is clone the repo and place it in the same folder where you installed kivy and kivyMD. All files should be in same folder as shown 
-![](https://github.com/VinayakPanchal99/EmotionNet/blob/main/Screenshot/2023-05-15%20(1).png)
+![](https://github.com/VinayakPanchal99/EmotionNet-Facial-Exp-Recog/blob/main/Screenshot/2023-05-15%20(1).png)
 
 STEP 3: How to run code: First get into the above working directory using commmand line and then activate the virtual environment. 
 ```
@@ -30,13 +30,13 @@ python allcode.py
 ```
 
 ## Project pics
-![](https://github.com/VinayakPanchal99/EmotionNet/blob/main/Screenshot/Loginpage.png)
-![](https://github.com/VinayakPanchal99/EmotionNet/blob/main/Screenshot/Capturepage.png)
-![](https://github.com/VinayakPanchal99/EmotionNet/blob/main/Screenshot/manualcap.png)
-![](https://github.com/VinayakPanchal99/EmotionNet/blob/main/Screenshot/autocap.png)
-![](https://github.com/VinayakPanchal99/EmotionNet/blob/main/Screenshot/pics%20senti.png)
-![](https://github.com/VinayakPanchal99/EmotionNet/blob/main/images/image_9.jpg)
-![](https://github.com/VinayakPanchal99/EmotionNet/blob/main/pic.png)
+![](https://github.com/VinayakPanchal99/EmotionNet-Facial-Exp-Recog/blob/main/Screenshot/Loginpage.png)
+![](https://github.com/VinayakPanchal99/EmotionNet-Facial-Exp-Recog/blob/main/Screenshot/Capturepage.png)
+![](https://github.com/VinayakPanchal99/EmotionNet-Facial-Exp-Recog/blob/main/Screenshot/manualcap.png)
+![](https://github.com/VinayakPanchal99/EmotionNet-Facial-Exp-Recog/blob/main/Screenshot/autocap.png)
+![](https://github.com/VinayakPanchal99/EmotionNet-Facial-Exp-Recog/blob/main/Screenshot/pics%20senti.png)
+![](https://github.com/VinayakPanchal99/EmotionNet-Facial-Exp-Recog/blob/main/images/image_9.jpg)
+![](https://github.com/VinayakPanchal99/EmotionNet-Facial-Exp-Recog/blob/main/pic.png)
 
 ## Reference
 
