@@ -1,4 +1,4 @@
-# EmotionNet-facial-Expression-Recognition
+# EmotionNet-Facial-Expression-Recognition
 
 The project is facial-expression-recognition system using ResNext to identify a person's emotions and send mood feedback report/detailed mood analysis report to make him/her joyful. The project classifies the person’s emotions into five categories: happy, sad, angry, surprised, and neutral. For more detail you can refer our research paper: [EmotionNet: ResNeXt Inspired CNN Architecture for Emotion Analysis on Raspberry Pi](https://ieeexplore.ieee.org/document/9573569)
 
